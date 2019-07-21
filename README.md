@@ -26,3 +26,9 @@
 
    获取 view 对象实例, 如
    `Button myButton = (Button) findViewById(R.id.my_button);`
+
+4. 常见布局
+
+   - 线性布局
+   - 相对布局
+   - 网页布局
